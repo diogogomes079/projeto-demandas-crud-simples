@@ -1,0 +1,4 @@
+Lista de coisas a se fazer no programa!
+
+- Adicionar a função de deletar.
+- Adicionar a função de procurar.
